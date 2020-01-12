@@ -1,1 +1,1 @@
-# aim_time
+# Algorithmic Analysis of Multi-Cascade Influence Maximization
