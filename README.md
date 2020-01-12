@@ -1,1 +1,1 @@
-# Algorithmic Analysis of Multi-Cascade Influence Maximization
+# Time-constrained Adaptive Influence Maximization
